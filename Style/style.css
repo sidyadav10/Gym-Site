@@ -218,7 +218,7 @@ nav a span {
 .main-section {
     height: 90vh;
     position: relative;
-    border: 2px solid blue;
+    
 
 }
 
@@ -290,7 +290,7 @@ video {
 .about-desc{
     height: 20vh;
     width: 80%;
-    border: 2px solid cadetblue;
+   
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -301,7 +301,7 @@ video {
     width: 80%;
     height: 70vh;
     display: grid;
-    border: 2px solid blue;
+    
     gap: 20px;
     grid-template-columns: repeat(2,1fr);
 }
@@ -313,7 +313,7 @@ video {
 }
 .about-info{
     /* height: 16vh; */
-    border: 2px solid red;
+   
     display: flex;
     align-items: center;
 }
